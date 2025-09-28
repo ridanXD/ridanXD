@@ -1,7 +1,29 @@
-<!-- Profil README paling norak tahun 2000an -->
-<h1 align="center" style="color:lime; background:black;">
-  ✨💾 WELCOME TO MY SUPER COOL PROFILE 💾✨
+
+<h1 align="center">
+  <span style="color:#ff0000">W</span>
+  <span style="color:#ff7f00">E</span>
+  <span style="color:#ffff00">L</span>
+  <span style="color:#00ff00">C</span>
+  <span style="color:#0000ff">O</span>
+  <span style="color:#4b0082">M</span>
+  <span style="color:#9400d3">E</span>
 </h1>
+
+<h2 align="center">
+  🌈 TO MY SUPER COOL PROFILE 🌈
+</h2>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" />
+</p>
+
+---
+
+
 
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="250" alt="Under Construction">
@@ -69,7 +91,7 @@
 <h2 align="center">📓 GUESTBOOK 📓</h2>
 
 <p align="center">
-  💬 Tinggalkan pesan di <a href="https://github.com/USERNAME/USERNAME/issues">Guestbook saya</a> seperti jaman Friendster ✨
+  💬 FOLLOW ME <a href="https://github.com/USERNAME/USERNAME/issues">Guestbook saya</a> seperti jaman Friendster ✨
 </p>
 
 ---
