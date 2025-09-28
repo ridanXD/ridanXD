@@ -1,29 +1,7 @@
-
-<h1 align="center">
-  <span style="color:#ff0000">W</span>
-  <span style="color:#ff7f00">E</span>
-  <span style="color:#ffff00">L</span>
-  <span style="color:#00ff00">C</span>
-  <span style="color:#0000ff">O</span>
-  <span style="color:#4b0082">M</span>
-  <span style="color:#9400d3">E</span>
+<!-- Profil README paling norak tahun 2000an -->
+<h1 align="center" style="color:lime; background:black;">
+  ✨💾 WELCOME TO MY SUPER COOL PROFILE 💾✨
 </h1>
-
-<h2 align="center">
-  🌈 TO MY SUPER COOL PROFILE 🌈
-</h2>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" />
-</p>
-
----
-
-
 
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="250" alt="Under Construction">
@@ -40,20 +18,28 @@
 </h2>
 
 <p align="center">
-  <b><font color="yellow">💻 Programmer Wannabe | 🎶 Music Addict | 🌐 Internet Explorer Survivor</font></b>
+  <b><font color="yellow">💻 Programmer | 🎶 Music Addict | 🌐 Internet Enjoyers/font></b>
 </p>
 
 ---
 
 <h2 align="center">
-  🌟✨ BADGES ✨🌟
+  🌟✨ MY SUPER POWERFULL TOOLS ✨🌟
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows%2095-lightgrey?style=for-the-badge&logo=windows95">
-  <img src="https://img.shields.io/badge/Browser-Internet%20Explorer-blue?style=for-the-badge&logo=internet-explorer">
-  <img src="https://img.shields.io/badge/Chat-Yahoo!%20Messenger-purple?style=for-the-badge&logo=yahoo">
-  <img src="https://img.shields.io/badge/Game-Counter%20Strike-green?style=for-the-badge&logo=steam">
+  <img src="https://img.shields.io/badge/Linux-Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/IDE-IntelliJ-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/IDE-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/Engine-Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/AI-GPT-111111?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
+  <img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+
+  
+
+  
+
 </p>
 
 ---
@@ -91,7 +77,7 @@
 <h2 align="center">📓 GUESTBOOK 📓</h2>
 
 <p align="center">
-  💬 FOLLOW ME <a href="https://github.com/USERNAME/USERNAME/issues">Guestbook saya</a> seperti jaman Friendster ✨
+  💬 Tinggalkan pesan di <a href="https://github.com/USERNAME/USERNAME/issues">Guestbook saya</a> seperti jaman Friendster ✨
 </p>
 
 ---
