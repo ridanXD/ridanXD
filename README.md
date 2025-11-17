@@ -1,6 +1,6 @@
 # Introduction
 Hello Welcome to my Github Page! Im Undergraduated Student from Telkom University majoring of software engineering. Im interest in Mobile Programming, Web Programming, and Offensive Security Programming. 
-
+I Love to make some of CLI Tools, in future, i think my repo will filled with a lot of CLI Tools.
 # DEVICE AND IDE
 - Lenovo Thinkpad X390
 - Arch Linux with Hyprland DE
