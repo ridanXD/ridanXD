@@ -1,5 +1,14 @@
 # Introduction
-Hello Welcome to my Github Page! Im Undergraduated Student from Telkom University majoring of software engineering.
+Hello Welcome to my Github Page! Im Undergraduated Student from Telkom University majoring of software engineering. Im interest in Mobile Programming, Web Programming, and Offensive Security Programming. 
+
+# DEVICE AND IDE
+- Lenovo Thinkpad X390
+- Arch Linux with Hyprland DE
+- Visual Studio Code
+- IntelliJ
+
+# DOCUMENTATION
+ridanxd.github.io
 
 
 # DONATE AND SUPPORT
